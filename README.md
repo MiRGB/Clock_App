@@ -1,1 +1,1 @@
-# Clock_App
+This repository contains a clock application that can be run in a browser by opening the index.html file. The app displays the current time and allows the user to choose between a 12-hour or 24-hour format. The clock automatically adjusts the background based on the time of day, changing it accordingly. Additionally, users have the option to manually set their own background image, allowing for full customization of the app's appearance.
