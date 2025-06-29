@@ -50,3 +50,8 @@ To run the application locally:
 🙌 Acknowledgements
 This project was created as a practice tool to explore time-based JavaScript logic, user interaction, and dynamic UI updates.
 Feedback, improvements, and custom ideas are always welcome!
+
+## 📄 Copyright Notice
+
+Copyright © MiRGB, 2025.  
+All rights reserved.
