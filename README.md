@@ -5,7 +5,7 @@ A customizable and dynamic clock application that runs directly in your web brow
 ## 🚀 Live Demo
 
 Try it out here:  
-👉 [Clock App - GitHub Pages](https://mirgb.github.io/Clock_App/)
+👉 [Clock App - GitHub Pages](https://mirgb.github.io/clock-app/)
 
 ## ⏰ How It Works
 
@@ -37,11 +37,11 @@ To run the application locally:
 
 1. Clone the repository:
 
-`git clone https://github.com/mirgb/Clock_App.git`
+`git clone https://github.com/MiRGB/clock-app.git`
 
 2. Navigate to the project folder:
 
-`cd Clock_App`
+`cd clock-app`
 
 3. Open the `index.html` file in your preferred web browser.
 
@@ -51,7 +51,7 @@ To run the application locally:
 This project was created as a practice tool to explore time-based JavaScript logic, user interaction, and dynamic UI updates.
 Feedback, improvements, and custom ideas are always welcome!
 
-## 📄 Copyright Notice
+## 📄 License
 
-Copyright © MiRGB, 2025.  
-All rights reserved.
+⚠️ This project is not open source. All rights reserved.  
+For review purposes only. See the [LICENSE](./LICENSE) file for full terms.
